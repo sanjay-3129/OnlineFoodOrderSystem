@@ -21,7 +21,11 @@ What are the main core java or advanced java features used here?
     vi) Input & Output
     vii) Exception Handling
     viii) JSP's
-    ix) AJAX --- In Future Development
-    x) Functional Style Programming -- In Future Development
+    ix) Exporting to MS-Excel In JSP
+    x) Mailing using SMTP Server(Gmail)
+    xi) Password Encryption (usign MessageDigest from java.security package)
+    xii) AJAX --- In Future Development
+    xiii) Functional Style Programming -- In Future Development
   
   #The Project Will be "Enhanced" gradually in future.
+
